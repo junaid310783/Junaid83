@@ -1,6 +1,6 @@
 {
-  "name": "homebridge-plugin-name",
-  "displayName": "Plugin Name",
+  "name": "@junaid/homebridge-azaan",
+  "displayName": "azaan",
   "type": "module",
   "version": "1.0.0",
   "private": true,
@@ -10,10 +10,10 @@
   "homepage": "https://github.com/USERNAME/GITHUB_PROJECT_NAME#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "https://github.com/junaid310783/Junaid83.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/junaid310783/Junaid83.git"
   },
   "keywords": [
     "homebridge-plugin"
